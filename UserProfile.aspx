@@ -294,9 +294,9 @@
                           <button id="Button1" class="edit_btn" title="Edit Profile" runat="server"  onserverclick="edit_profile" ><i class="fas fa-user-edit edit_icon"></i></button>       
                      </div>
                       <br/>
-                     <h4><asp:Label ID="fullname" runat="server" Text="Ishita Chauhan"></asp:Label></h4><br/>
+                     <h4><asp:Label ID="fullname" runat="server" Text="Vaibhav Makwana"></asp:Label></h4><br/>
                      <h4><asp:Label ID="university" runat="server" Text="Dharmsinh Desai University"></asp:Label></h4><br/>
-                     <h4><asp:Label ID="email" runat="server" Text="ishitachauhan0202@gmail.com"></asp:Label></h4><br/>
+                     <h4><asp:Label ID="email" runat="server" Text="vaibhav311004@gmail.com@gmail.com"></asp:Label></h4><br/>
                   <div class="testing"> 
                         <div class="userfooter">           
                             <label class="file-upload" >
